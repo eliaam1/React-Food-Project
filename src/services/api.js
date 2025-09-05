@@ -1,4 +1,4 @@
-const API_KEY = "e54fcd8a23894b78a62cb66a8c7d8643";
+const API_KEY = "{// Add your Spoonacular API key here}";
 const BASE_URL = "https://api.spoonacular.com/recipes";
 const recipes_number = 24;
 
